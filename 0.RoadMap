@@ -1,1 +1,44 @@
+ ##Road for Front End 
 
+
+
+                                DataBase(Create , Update , Delete)
+                                              |
+                              BackEnd(Java Microservices SpringBoot)
+                                              |
+                                     Java ,Python, .Net , C#
+                                              |
+                 API(Create, View, Update ,Cancel) ->Using PostMan to check API Data
+                                              |
+      FrontEnd(Angular go to this website to learn more about angular ->  https://angular.io/docs)
+                                              |
+                            HTML + CSS + BootStrap + JavaScript or TypeScript
+                                              |
+                              Download(gitBash, VSCode, Node.js)
+                                              |
+                            Jira(Create Story and fill all the details)
+                                              |
+                                 Open Github and Create a new branch 
+                                              |
+                                 Set EnvironmentVariable(link-> )
+                                              |
+                            Open VSCode for Angular Dev(git fetch --all)
+                                              |
+                              Change Dev Branch to your Created Branch
+                                              |
+                  Goto to console and type ->  ng generate <project name> (Create a new microfronted)
+                                              |
+                VSCode(Install Node Module in your Project goto console and type npm install)
+                                              |
+      VSCode Console (goto create src folder and create a new component -> ng generate component <component name like "Login" etc.>)
+                                              |
+                                  VSCode Console(npm run serve)
+                                              |
+                            VSCode (stage changes, message, commit)
+                                              |
+                            github(send message for Review and Approve)
+                                              |
+                                        gitHub(Merge)
+                                              |
+                          DevOps(trigger the pipeline dev ,test, prod)
+                           
